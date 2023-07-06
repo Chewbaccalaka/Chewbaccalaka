@@ -24,7 +24,7 @@ Experienced Business Analyst and Project Manager with a strong background in bri
 ### Education
 
 - Bachelor of Science in Management Information Systems, Wright State University, Dayton, OH
-- Completed training programs in Python, Java, Data Analytics with Python, and Lean Six Sigma Green Belt.
+- Completed training programs in Python, Java, and JavaScript.
 
 ### Technology Proficiency
 
